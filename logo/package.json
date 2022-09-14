@@ -1,0 +1,9 @@
+{
+  "name": "origin-1",
+  "bin": "make-png-logo.js",
+  "dependencies": {
+    "sharp": "latest"
+  },
+  "private": true,
+  "type": "module"
+}
